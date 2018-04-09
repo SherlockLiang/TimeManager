@@ -1,3 +1,3 @@
 # TimeManager
 
-This is my practise project. It is for time management on web page.
+This is my practice project. It is for time management based on web page.
