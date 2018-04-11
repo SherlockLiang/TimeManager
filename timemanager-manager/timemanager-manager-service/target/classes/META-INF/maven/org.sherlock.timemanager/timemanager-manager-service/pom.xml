@@ -7,8 +7,5 @@
     <artifactId>timemanager-manager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <groupId>org.sherlock.timemanager</groupId>
   <artifactId>timemanager-manager-service</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-
 </project>
